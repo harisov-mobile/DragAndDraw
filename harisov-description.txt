@@ -1,0 +1,5 @@
+Drag and Draw:
+
+- используется "свой" View, сделанный на основе View (для этого создан класс class BoxDrawingView extends View )
+
+- чтобы использовать свой view, надо указывать полный путь к классу: ru.internetcloud.draganddraw.BoxDrawingView
